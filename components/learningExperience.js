@@ -68,7 +68,7 @@ export default function LearningExperience() {
                                 </div>
 
                                 <li>
-                                    <li className="underline">Marek Nurmbek</li>
+                                    <li className="underline">Marko Ehastu</li>
                                 </li>
                                 <div className="my-2">
                                     &quot;Mina kuulusin robotiteatri dokumentaali rühma. Minu ülesanded olid grupis; võtetel
