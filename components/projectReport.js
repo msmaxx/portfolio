@@ -25,7 +25,7 @@ export default function ProjectReport() {
                                 ei välista, et tehisintellektil võivad tulevikus olla tunded ja eneseteadvus.
                             </div>
                             <div className="my-2">
-                                <p>Meie rühm tegeleb vaatlusdokumentatsiooniga; me uurime, kuidas see protsess toimub. Meie
+                                Meie rühm tegeleb vaatlusdokumentatsiooniga; me uurime, kuidas see protsess toimub. Meie
                                 eesmärk on ka vaadata ringi ja tähistada roboteid meie elus, me tahame mõista, kas me
                                 elame juba ajastul, kus robotid võivad isegi teatrit mängida. Meie rühm koosneb väga
                                 erinevatest inimestest ja igaüks neist on kirjutanud erineva nägemuse sellest, kuidas
@@ -33,8 +33,8 @@ export default function ProjectReport() {
                                 pesumasinad, robotkullerid, täiturid, muruniidukid. Dokumentaalfilmis püüame rõhutada
                                 inimeste ja robotite vahelisi suhteid, inimeste käitumist. Meie projekt on suunatud
                                 15-35-aastastele noortele, meie filmi saab kasutada ka hariduslikel eesmärkidel, et anda
-                                ülevaade robotite olukorrast ja esitada õpilastele retooriline küsimus "Kas robot võib
-                                    asendada inimest?".</p>
+                                ülevaade robotite olukorrast ja esitada õpilastele retooriline küsimus &quot;Kas robot võib
+                                asendada inimest?&quot;.
                             </div>
                             <div className="my-2">
                                 Lisaks kõigele sellele oleme filminud robotiteatri loomise protsessi, intervjueerinud
