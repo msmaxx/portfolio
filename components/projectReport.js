@@ -33,8 +33,8 @@ export default function ProjectReport() {
                                 pesumasinad, robotkullerid, täiturid, muruniidukid. Dokumentaalfilmis püüame rõhutada
                                 inimeste ja robotite vahelisi suhteid, inimeste käitumist. Meie projekt on suunatud
                                 15-35-aastastele noortele, meie filmi saab kasutada ka hariduslikel eesmärkidel, et anda
-                                ülevaade robotite olukorrast ja esitada õpilastele retooriline küsimus &quot;Kas robot võib
-                                asendada inimest?&quot;.
+                                ülevaade robotite olukorrast ja esitada õpilastele retooriline küsimus: Kas robot võib
+                                asendada inimest?.
                             </div>
                             <div className="my-2">
                                 Lisaks kõigele sellele oleme filminud robotiteatri loomise protsessi, intervjueerinud
