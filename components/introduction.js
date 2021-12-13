@@ -4,7 +4,7 @@ export default function Introduction() {
             <div className="container px-6 py-8 mx-auto">
                 <div className="items-center lg:flex">
                     <div className="lg:w-1/2">
-                        <h2 className="text-xl font-bold text-gray-800 dark:text-gray-100">Sissejuhatus</h2>
+                        <h2 id="sissejuhatus" className="text-xl font-bold text-gray-800 dark:text-gray-100">Sissejuhatus</h2>
 
                         <p className="mt-4 text-lg text-gray-500 dark:text-gray-300 lg:max-w-xl">
                             <div className="my-2">ROBOTITEATER - projekti eesmärk on saada ülevaade võimalustest

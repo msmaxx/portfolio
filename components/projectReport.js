@@ -4,7 +4,7 @@ export default function ProjectReport() {
             <div className="container px-6 py-8 mx-auto">
                 <div className="items-center lg:flex">
                     <div className="lg:w-full">
-                        <h2 className="text-xl font-bold text-gray-800 dark:text-gray-100">Projekti aruanne</h2>
+                        <h2 id="projekti-aruanne" className="text-xl font-bold text-gray-800 dark:text-gray-100">Projekti aruanne</h2>
 
                         <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">
                             <div className="my-2">Projekt algas 2020. aasta kevadsemestril, püüdes esialgu mõista
