@@ -4,7 +4,8 @@ export default function LearningExperience() {
             <div className="container px-6 py-8 mx-auto">
                 <div className="items-center lg:flex">
                     <div className="lg:w-full">
-                        <h2 id="rühma-liikmete-õpikogemus" className="text-xl font-bold text-gray-800 dark:text-gray-100">Rühma liikmete
+                        <h2 id="rühma-liikmete-õpikogemus"
+                            className="text-xl font-bold text-gray-800 dark:text-gray-100">Rühma liikmete
                             õpikogemus</h2>
                         <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">
                             <ul className="list-disc mx-4">
@@ -12,7 +13,8 @@ export default function LearningExperience() {
                                     <li className="underline">Aljona Surzhikova</li>
                                 </li>
                                 <div className="my-2">
-                                    &quot;Robotiteatri projekt koosnes kolmest grupist: robotite programmeerijad, turundus ja
+                                    &quot;Robotiteatri projekt koosnes kolmest grupist: robotite programmeerijad,
+                                    turundus ja
                                     meie grupp oli dokumentaalfilmi grupp. Meie pidime jälgima robotiteatri loomist,
                                     filmima making-of stseene, looma väikesed klipid, mida turundusgrupp saaks kasutada.
                                     Mina olin grupijuht, kuna olen dokumentaalfilmide režissöör. Me arutlesime filmi
@@ -48,7 +50,8 @@ export default function LearningExperience() {
                                     <li className="underline">Maksim Sitkin</li>
                                 </li>
                                 <div className="my-2">
-                                    &quot;Kõige tähtsam, mis ma projektist sain, oli meeskonnatöö kogemus, oskus tööd jagada
+                                    &quot;Kõige tähtsam, mis ma projektist sain, oli meeskonnatöö kogemus, oskus tööd
+                                    jagada
                                     ja suhelda teiste meeskonnaliikmetega. Meeskonnas töötades sain uusi teadmisi
                                     videoklippide monteerimisest, kasutades mitmeid erinevaid programme, mis oli väga
                                     hariv ja huvitav. Õppisin, kuidas luua videoklippide sünkroontõlget ning kuidas
@@ -64,14 +67,24 @@ export default function LearningExperience() {
                                     <li className="underline">Triin Pohlak</li>
                                 </li>
                                 <div className="my-2">
-                                    .
+                                    &quot;Liitusin projektiga, sest ma armastan teatrit ning soovisin näha mis juhtub siis kui
+                                    miski nii emotsionaalne ristatakse, millegi nii apaatsega kui on robot .Soov on
+                                    õppida ja seda teha võimalikult põnevalt. Ootasin saada osa millestki erakordsest,
+                                    sellistlaadi projektist, millest ma varem kuulnudki polnud. Meeskonnas ma olin
+                                    aktiivne liige. Filmisin intervjuud inimesega, kes äsja oli ostnud robottolmuimeja
+                                    ning osalesin ka muudel võtetel. Otsisin pilte, visuaale, mida projekteeriti
+                                    etendustel taustale ilmestamaks robotite emotsioone. Lisaks olin esietenduse päeval
+                                    olin runner (asjaajaja), piletikontroll ning müüja. ELUprojekt andis mulle julgust ka
+                                    tulevikus osa võtta projektidest. Minna võõrasse keskkonda võõraste inimeste seltsi
+                                    ning luua midagi põnevat.&ldquo;
                                 </div>
 
                                 <li>
                                     <li className="underline">Marko Ehastu</li>
                                 </li>
                                 <div className="my-2">
-                                    &quot;Mina kuulusin robotiteatri dokumentaali rühma. Minu ülesanded olid grupis; võtetel
+                                    &quot;Mina kuulusin robotiteatri dokumentaali rühma. Minu ülesanded olid grupis;
+                                    võtetel
                                     osalemine, videoklippides mängimine, grupiga aruteludes osalemine ja näitlejatele
                                     kirjutamine intervjuude jaoks.
                                     Grupidünaamika sujus üldiselt hästi, grupis oli 2 väga motiveeritud inimest, kes

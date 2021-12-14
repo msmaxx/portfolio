@@ -68,83 +68,7 @@ export default function ActionPlan() {
 
                                             <tr>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Esialgne stseenaarne plaan, iga gruppi osaleja pani kirja oma
-                                                    nägemust
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    November
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Dokirühm
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Kõik rühma liikmed
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Teine võtepäev, kus on robotid meie elus
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    November
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Dokirühm
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Kõik rühma liikmed
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Montaaž
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    November
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Dokirühm
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Kõik rühma liikmed
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Esimene must rida koos, näitamine vahenädalal, arutelu
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    November
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Dokirühm
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Kõik rühma liikmed
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Lisa plaanide voted
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    November
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Dokirühm
-                                                </td>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Kõik rühma liikmed
-                                                </td>
-                                            </tr>
-
-                                            <tr>
-                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Montaaž
+                                                    Filmimine robotite lavaproovi
                                                 </td>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
                                                     Oktoober
@@ -159,7 +83,7 @@ export default function ActionPlan() {
 
                                             <tr>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Postproduction, helijäreltöötlus, tekst - subtiitritele
+                                                    Video intervjuu robottolmuimeja ostnud inimesega
                                                 </td>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
                                                     Oktoober
@@ -174,7 +98,7 @@ export default function ActionPlan() {
 
                                             <tr>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Inglise subtiitrid
+                                                    Filmime poes töötaja ja iseteeninduskassa omavahelist läbisaamist
                                                 </td>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
                                                     Oktoober
@@ -189,10 +113,70 @@ export default function ActionPlan() {
 
                                             <tr>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
-                                                    Esilinastus
+                                                    Filmime intervjuud tehisintellekt John´i ja robotitega
                                                 </td>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
                                                     Oktoober
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Dokirühm
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Kõik rühma liikmed
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Filmime meeskonnatööd
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Oktoober
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Dokirühm
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Kõik rühma liikmed
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Filmime Robotexil roboteid ja intervjueerime inimesi
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    November
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Dokirühm
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Kõik rühma liikmed
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Montaaž, lisa kaadrite filmimine kui tarvis
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    November
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Dokirühm
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Kõik rühma liikmed
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    Esietendus
+                                                </td>
+                                                <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
+                                                    November
                                                 </td>
                                                 <td className="px-6 py-4 whitespace-nowrap text-md text-gray-900">
                                                     Dokirühm
